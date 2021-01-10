@@ -3,6 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';
 
 import Buttons from './Buttons';
+import Footer from './Footer';
 
 const useStyles = makeStyles({
   root: {
@@ -19,6 +20,7 @@ const App = () => {
       <div className={classes.root}>
         <Buttons />
       </div>
+      <Footer/>
     </Container>
   );
 };
