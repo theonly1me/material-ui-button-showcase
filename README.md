@@ -83,4 +83,4 @@ $ npm start
 ## Contact
 
 - GitHub [@theonly1me](https://github.com/theonly1me)
-- Twitter [@your-twitter](https://twitter.com/AtchyutPreetham)
+- Twitter [@AtchyutPreetham](https://twitter.com/AtchyutPreetham)
